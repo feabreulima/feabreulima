@@ -2,14 +2,13 @@
 I am a Full-Stack Developer focusing on Python and Java (Back-End), HTML, CSS and JS (Web Front-End)
 <div>
 
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=feabreulima&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feabreulima&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=feabreulima&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feabreulima&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Technologies</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
