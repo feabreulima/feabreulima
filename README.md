@@ -26,5 +26,3 @@ I am a Full-Stack Developer focusing on Python and Java (Back-End), HTML, CSS an
       <img width="25" src="linkedin.svg">
     </a>
 </div>
-
-![Snake animation](https://github.com/feabreulima/feabreulima/blob/output/github-contribution-grid-snake.svg)
